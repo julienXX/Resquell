@@ -1,3 +1,3 @@
 # Resquell
 
-An attempt to perform Resque jobs in Haskell.
+An attempt to enqueue and perform Resque jobs in Haskell.
